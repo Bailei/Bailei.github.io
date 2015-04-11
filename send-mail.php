@@ -1,9 +1,9 @@
 <?php
 
 	// site owner
-	$site_name = 'Test';
-	$sender_domain = 'server@bailei.com';
-	$to = 'taofeng311@gmail.com';
+	$site_name = 'TaoFengGmailAddress';
+	$sender_domain = 'server@gmail.com';
+	$to = 'tao.taofeng@gmail.com';
 	
 	
 	// contact form fields
